@@ -8,15 +8,14 @@ Always learning and looking for new challenges to improve my skills.
 
 - HTML, CSS, JavaScript
 - Bootstrap, Tailwind CSS
-- React (learning React Native soon)
-- Python, Django (currently learning backend development)
+- React, Next Js 
+- Python, Django
 - Git, GitHub, Linux
-- VS Code, Figma, Chrome DevTools
 
 ## Currently Learning
 
 - Backend Development using Django
-- Mobile Development using Flutter and React Native
+- Mobile Development using React Native
 - Databases: SQL, MongoDB
 
 ## GitHub Stats
@@ -25,9 +24,8 @@ Always learning and looking for new challenges to improve my skills.
 
 ## Contact
 
-- Email: zeyad@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- Email: zeyadmaher177@gmail.com
+- Portfolio: [my Portfolio](https://my-profile-9ioh.vercel.app/)
 
 ---
 
