@@ -1,46 +1,34 @@
-<h1 align="center">مرحباً 👋 أنا زياد</h1>
+# Hi, I'm Zeyad
 
-<p align="center">
-💻 مطور ويب (Front-End) & في طريقي لأصبح Full Stack<br>
-🎯 هدفي: بناء تطبيقات حديثة وسريعة تساعد الناس وتغير الحياة للأفضل<br>
-☕️ أعشق البرمجة والكود النظيف 👨🏻‍💻
-</p>
+Front-End Web Developer currently on my journey to become a Full Stack Developer.  
+I enjoy building modern, fast, and useful web and mobile applications.  
+Always learning and looking for new challenges to improve my skills.
 
----
+## Skills
 
-## 🛠️ المهارات
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- React (learning React Native soon)
+- Python, Django (currently learning backend development)
+- Git, GitHub, Linux
+- VS Code, Figma, Chrome DevTools
 
-- 💻 HTML | CSS | JavaScript | Bootstrap | Tailwind
-- ⚛️ React (قريباً React Native 🚀)
-- 🐍 Python | Django (في مرحلة التعلم)
-- 🛢️ Git | GitHub | Linux
-- 🖥️ VSCode | Figma | Chrome DevTools
+## Currently Learning
 
----
+- Backend Development using Django
+- Mobile Development using Flutter and React Native
+- Databases: SQL, MongoDB
 
-## 🔥 حالياً أتعلم
+## GitHub Stats
 
-- 🚀 Backend باستخدام Django
-- 📱 Flutter وReact Native لتطوير تطبيقات الموبايل
-- 🗃️ قواعد بيانات SQL & MongoDB
+![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyad-pro&show_icons=true&theme=radical)
 
----
+## Contact
 
-## 📈 إحصائيات GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad-pro&show_icons=true&theme=radical" alt="Zeyad's GitHub stats" />
-</p>
+- Email: zeyad@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- Portfolio: [Your Portfolio](https://your-portfolio.com)
 
 ---
 
-## 🤝 كيف تتواصل معي؟
-
-- 📬 Email: zeyad@example.com
-- 💼 LinkedIn: [رابط حسابك](https://linkedin.com/in/username)
-- 💻 Portfolio: [رابط البورتفوليو لو عندك](https://your-portfolio.com)
-
----
-
-> "البرمجة ليست كتابة الكود فقط... إنها حل للمشاكل وتغيير للحياة." – زياد
-
+"Programming is not just about writing code; it's about solving problems and making life easier." – Zeyad
