@@ -1,16 +1,23 @@
-## Hi there 👋
+# اسم المشروع
 
-<!--
-**zeyad-pro/zeyad-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+وصف بسيط للمشروع في سطر أو سطرين.  
+مثال: هذا المشروع عبارة عن تطبيق ويب لعرض وإدارة المهام اليومية باستخدام React وNode.js.
 
-Here are some ideas to get you started:
+## 🚀 الميزات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- إضافة مهام جديدة
+- تعديل المهام
+- حذف المهام
+- حفظ المهام في قاعدة بيانات MongoDB
+
+## 🛠️ التقنيات المستخدمة
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+## 📦 التثبيت والتشغيل
+
+1. كلون المستودع:
+```bash
+git clone https://github.com/username/repo-name.git
